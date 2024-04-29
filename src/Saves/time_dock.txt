@@ -1,0 +1,10 @@
+Load Current Profile:1
+Is active:1
+PositionX:1523
+PositionY:530
+R:3
+G:200
+B:225
+Time Character Size:380
+Calendar Character Size:65
+Outline Thicknes:0

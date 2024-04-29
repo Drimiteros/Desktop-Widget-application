@@ -1,0 +1,9 @@
+Load Current Profile:1
+Is active:1
+PositionX:28.9999
+PositionY:27
+R:3
+G:200
+B:225
+Character Size:50
+Outline Thicknes:0
